@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="enter_no_of_times_to_roll_dice">Enter no. of times to roll dice</string>
+    <string name="roll_dice">Roll Dice</string>
+</resources>
